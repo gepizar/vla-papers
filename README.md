@@ -38,6 +38,7 @@ GPT-4V in Robotic Vision-Language Planning | [Paper](https://robot-vila.github.i
 | Physically Ground Vision-Language Models for Robotic Manipulation | [Paper](https://arxiv.org/pdf/2309.02561v4.pdf) |
 | Grounded Decoding: Guiding Text Generation with Grounded Models for Embodied Agents | [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/bb3cfcb0284642a973dd631ec9184f2f-Paper-Conference.pdf) |
 | LLaVA-Grounding: Grounded Visual Chat with Large Multimodal Models | [Paper](https://arxiv.org/pdf/2312.02949v1.pdf) |
+|ManipVQA: Injecting Robotic Affordance and Physically Grounded Information into Multi-Modal Large Language Models| [Paper](https://arxiv.org/pdf/2403.11289.pdf) |
 
 
 
