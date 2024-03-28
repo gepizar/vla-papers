@@ -32,6 +32,8 @@ GPT-4V in Robotic Vision-Language Planning | [Paper](https://robot-vila.github.i
 | Video as the New Language for Real-World Decision Making | [Paper](https://arxiv.org/pdf/2402.17139.pdf) |
 
 # Grounding / Affordance
+| Title | Link | 
+|-------|------|
 | Do As I Can, Not As I Say: Grounding Language in Robotic Affordances | [Paper](https://proceedings.mlr.press/v205/ichter23a/ichter23a.pdf) |
 | Physically Ground Vision-Language Models for Robotic Manipulation | [Paper](https://arxiv.org/pdf/2309.02561v4.pdf) |
 | Grounded Decoding: Guiding Text Generation with Grounded Models for Embodied Agents | [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/bb3cfcb0284642a973dd631ec9184f2f-Paper-Conference.pdf) |
@@ -41,6 +43,8 @@ GPT-4V in Robotic Vision-Language Planning | [Paper](https://robot-vila.github.i
 
 
 # Other
+| Title | Link | 
+|-------|------|
 | Pushing the Limits of Cross-Embodiment Learning for Manipulation and Navigation | [Paper](https://arxiv.org/pdf/2402.19432v1.pdf) |
 | Goal Representations for Instruction Following: A Semi-Supervised Language Interface to Control | [Paper](https://proceedings.mlr.press/v229/myers23a/myers23a.pdf) |
 | Hierarchical Reinforcement Learning in
@@ -55,6 +59,13 @@ Complex 3D Environments | [Paper](https://arxiv.org/pdf/2302.14451.pdf) |
 
 
 
+# MM LLM
+| Title | Link |
+|-------|------|
+| MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training | [Paper](https://arxiv.org/pdf/2403.09611.pdf) |
+| MM-LLms. Recent Advances in MultiModal Large Language Models | [Paper](https://arxiv.org/pdf/2401.13601.pdf?trk=public_post_comment-text) |
+| Gemini: A Family of Highly Capable Multimodal Models | [Paper](https://arxiv.org/pdf/2312.11805.pdf) |
+
 
 
 
@@ -63,7 +74,12 @@ Complex 3D Environments | [Paper](https://arxiv.org/pdf/2302.14451.pdf) |
 |-------|------|
 | Open X-Embodiment: Robotic Learning Datasets and RT-X Models | [Paper](https://openreview.net/pdf?id=zraBtFgxT0) |
 | DROID: A Large-Scale In-The-Wild Robot Manipulation Dataset | [Paper](https://arxiv.org/pdf/2403.12945.pdf) | [Paper](https://arxiv.org/pdf/2403.12945.pdf) |
+| DataCOMP: In search of the next generation of multimodal datasets | [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/56332d41d55ad7ad8024aac625881be7-Paper-Datasets_and_Benchmarks.pdf) |
+| Multimodal Algorithmic Reasoning Workshop (CVPR2024). Challenge: vision-and-language reasoning on abstract visual puzzles. SMART-101 dataset | [1. Workshop](https://marworkshop.github.io/cvpr24/index.html) [2. Dataset](https://smartdataset.github.io/smart101/)|
+| | []() |
+
 
 
 
 https://www.youtube.com/watch?v=akDSG9FsoCk&ab_channel=YunzhuLi
+ 
