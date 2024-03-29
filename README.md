@@ -58,7 +58,7 @@ Complex 3D Environments | [Paper](https://arxiv.org/pdf/2302.14451.pdf) |
 | Navigation with Large Language Models: Semantic Guesswork as a Heuristic for Planning | [Paper](https://proceedings.mlr.press/v229/shah23c/shah23c.pdf) |
 | Gradient-based Planning with World Models | [Paper](https://arxiv.org/pdf/2312.17227.pdf) |
 
-
+https://arxiv.org/abs/2403.17844
 
 # MM LLM
 | Title | Link |
