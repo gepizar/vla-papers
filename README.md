@@ -56,6 +56,7 @@ Complex 3D Environments | [Paper](https://arxiv.org/pdf/2302.14451.pdf) |
 | Mitigating Spurious Correlations in Multi-modal Models during Fine-tunning | [Paper](https://proceedings.mlr.press/v202/yang23j/yang23j.pdf) |
 | Navigation with Large Language Models: Semantic Guesswork as a Heuristic for Planning | [Paper](https://proceedings.mlr.press/v229/shah23c/shah23c.pdf) |
 | Gradient-based Planning with World Models | [Paper](https://arxiv.org/pdf/2312.17227.pdf) |
+| A Path Towards Autonomous Machine Intelligence | [Paper](https://openreview.net/pdf?id=BZ5a1r-kVsf) |
 
 
 
@@ -76,10 +77,20 @@ Complex 3D Environments | [Paper](https://arxiv.org/pdf/2302.14451.pdf) |
 | DROID: A Large-Scale In-The-Wild Robot Manipulation Dataset | [Paper](https://arxiv.org/pdf/2403.12945.pdf) | [Paper](https://arxiv.org/pdf/2403.12945.pdf) |
 | DataCOMP: In search of the next generation of multimodal datasets | [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/56332d41d55ad7ad8024aac625881be7-Paper-Datasets_and_Benchmarks.pdf) |
 | Multimodal Algorithmic Reasoning Workshop (CVPR2024). Challenge: vision-and-language reasoning on abstract visual puzzles. SMART-101 dataset | [1. Workshop](https://marworkshop.github.io/cvpr24/index.html) [2. Dataset](https://smartdataset.github.io/smart101/)|
-| | []() |
+| Ego-Exo4D: Understanding Skilled Human Activity from First- and Third-Person Perspectives | [Paper](https://ego-exo4d-data.org/paper/ego-exo4d.pdf) |
 
 
 
 
 https://www.youtube.com/watch?v=akDSG9FsoCk&ab_channel=YunzhuLi
- 
+
+
+# Compositional Learning
+| Title | Link |
+| ----- | ----- |
+| How to Grow a Mind: Statistics, Structure, and Abstraction | [Paper](https://www.science.org/doi/pdf/10.1126/science.1192788) |
+| Human-level concept learning through probabilistic program induction | [Paper](https://www.science.org/doi/epdf/10.1126/science.aab3050) |
+| Compositional generalization through meta sequence-to-sequence learning | [Paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/f4d0e2e7fc057a58f7ca4a391f01940a-Paper.pdf) |
+| Human-link systematic generalization through a meta-learning neural network | [Paper](https://www.nature.com/articles/s41586-023-06668-3) |
+
+
