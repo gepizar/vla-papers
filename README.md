@@ -1,4 +1,25 @@
+# Compositional Learning
+| Title | Link |
+| ----- | ----- |
+| How to Grow a Mind: Statistics, Structure, and Abstraction | [Paper](https://www.science.org/doi/pdf/10.1126/science.1192788) |
+| DreamCoder: Growing generalizable, interpretable knowledge with wake-sleep Bayesian program learning | [Paper](https://arxiv.org/pdf/2006.08381.pdf) |
+| Human-level concept learning through probabilistic program induction | [Paper](https://www.science.org/doi/epdf/10.1126/science.aab3050) |
+| Compositional generalization through meta sequence-to-sequence learning | [Paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/f4d0e2e7fc057a58f7ca4a391f01940a-Paper.pdf) |
+| Human-link systematic generalization through a meta-learning neural network | [Paper](https://www.nature.com/articles/s41586-023-06668-3) |
+| Neural Discrete Representation Learning | [VQ-VAE](https://arxiv.org/pdf/1711.00937.pdf) |
+| Generating Diverse High-Fidelity Images with VQ-VAE-2 | [Paper](https://arxiv.org/pdf/1906.00446.pdf) |
+| Hierarchical Quantized Autoencoders | [Paper](https://proceedings.neurips.cc/paper_files/paper/2020/file/309fee4e541e51de2e41f21bebb342aa-Paper.pdf) |
+| Differentiable Graph Module (DGM) for Graph Convolutional Networks | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9763421&tag=1) |
+| Compositional generalization through abstract representations in human and artificial neural networks | [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/d0241a0fb1fc9be477bdfde5e0da276a-Paper-Conference.pdf) |
+| Graph Attention Networks | [Paper](https://arxiv.org/pdf/1710.10903.pdf%22%22GraphAttentionNetworks%22%22) |
+| Graph Transformer Networks | [Paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/9d63484abb477c97640154d40595a3bb-Paper.pdf) |
+| Systematicity Emerges in Transformers when Abstract Grammatical Roles Guide Attention | [Paper](https://aclanthology.org/2022.naacl-srw.1.pdf) |
+| Inducing Systematicity in Transformers by Attending to Structurally Quantized Embeddings | [Paper](https://arxiv.org/pdf/2402.06492.pdf) |
+
+
+
 # vla-papers
+
 
 | Title | Link | 
 |-------|------|
@@ -84,30 +105,5 @@ https://arxiv.org/abs/2403.17844
 
 
 https://www.youtube.com/watch?v=akDSG9FsoCk&ab_channel=YunzhuLi
-
-
-# Compositional Learning
-| Title | Link |
-| ----- | ----- |
-| How to Grow a Mind: Statistics, Structure, and Abstraction | [Paper](https://www.science.org/doi/pdf/10.1126/science.1192788) |
-| DreamCoder: Growing generalizable, interpretable knowledge with wake-sleep Bayesian program learning | [Paper](https://arxiv.org/pdf/2006.08381.pdf) |
-| Human-level concept learning through probabilistic program induction | [Paper](https://www.science.org/doi/epdf/10.1126/science.aab3050) |
-| Compositional generalization through meta sequence-to-sequence learning | [Paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/f4d0e2e7fc057a58f7ca4a391f01940a-Paper.pdf) |
-| Human-link systematic generalization through a meta-learning neural network | [Paper](https://www.nature.com/articles/s41586-023-06668-3) |
-
-
-# VQ
-| Title | Link |
-| ----- | ----- |
-| Neural Discrete Representation Learning | [VQ-VAE](https://arxiv.org/pdf/1711.00937.pdf) |
-| Hierarchical Quantized Autoencoders | [Paper](https://proceedings.neurips.cc/paper_files/paper/2020/file/309fee4e541e51de2e41f21bebb342aa-Paper.pdf) |
-| Differentiable Graph Module (DGM) for Graph Convolutional Networks | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9763421&tag=1) |
-| Compositional generalization through abstract representations in human and artificial neural networks | [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/d0241a0fb1fc9be477bdfde5e0da276a-Paper-Conference.pdf) |
-| Graph Attention Networks | [Paper](https://arxiv.org/pdf/1710.10903.pdf%22%22GraphAttentionNetworks%22%22) |
-| Graph Transformer Networks | [Paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/9d63484abb477c97640154d40595a3bb-Paper.pdf) |
-| Systematicity Emerges in Transformers when Abstract Grammatical Roles Guide Attention | [Paper](https://aclanthology.org/2022.naacl-srw.1.pdf) |
-| Inducing Systematicity in Transformers by Attending to Structurally Quantized Embeddings | [Paper](https://arxiv.org/pdf/2402.06492.pdf) |
-
-
 
 
